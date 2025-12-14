@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Hush hush",
+  "base_artist": "KAZ",
+  "createdAt": "2025-12-14T14:40:28.032679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hush Hush;Hush Hush - Live",
+      "artist": "Girls' Generation (Tae Yeon)",
+      "has_synced": false,
+      "path": "select/01_Hush_Hush;Hush_Hush_-_Live_Girls'_Generation_(Tae_Yeon).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hush Hush, Hush Hush (태연)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/02_Hush_Hush,_Hush_Hush_(태연)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "Natalie Portman's Shaved Head",
+      "has_synced": false,
+      "path": "select/03_Hush_Hush_Natalie_Portman's_Shaved_Head.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "Pussycat Dolls feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/04_Hush_Hush_Pussycat_Dolls_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hush Hush (with mash up)",
+      "artist": "Pussycat Dolls feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/05_Hush_Hush_(with_mash_up)_Pussycat_Dolls_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hush Hush (With Mash Up)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/06_Hush_Hush_(With_Mash_Up)_Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hush, Hush, Hush.",
+      "artist": "Paula Cole",
+      "has_synced": true,
+      "path": "select/07_Hush,_Hush,_Hush._Paula_Cole.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hush, Hush, Hush",
+      "artist": "Annie Lennox",
+      "has_synced": false,
+      "path": "select/08_Hush,_Hush,_Hush_Annie_Lennox.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/09_Hush_Hush_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/10_Hush_Hush_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/11_Hush_Hush_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hush Hush (Album Version)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/12_Hush_Hush_(Album_Version)_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hush Hush (Dave Aude Remix)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/13_Hush_Hush_(Dave_Aude_Remix)_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hush Hush; Hush Hush - Main",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/14_Hush_Hush;_Hush_Hush_-_Main_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hush Hush, Hush Hush (DJ Fisun Radio Edit)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/15_Hush_Hush,_Hush_Hush_(DJ_Fisun_Radio_Edit)_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hush Hush, Hush Hush (Dave Aude Extended Mix)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/16_Hush_Hush,_Hush_Hush_(Dave_Aude_Extended_Mix)_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hush Hush, Hush Hush (Dave Aude Radio Edit)",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/17_Hush_Hush,_Hush_Hush_(Dave_Aude_Radio_Edit)_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hush Hush; Hush Hush",
+      "artist": "The Pussycat Dolls",
+      "has_synced": true,
+      "path": "select/18_Hush_Hush;_Hush_Hush_The_Pussycat_Dolls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hush Hush",
+      "artist": "KAZ",
+      "has_synced": false,
+      "path": "select/pl_01_Hush_Hush_KAZ.txt"
+    }
+  ]
+}
