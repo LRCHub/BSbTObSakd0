@@ -1,0 +1,47 @@
+# KAZ – Hush hush
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+夕陽追い越した Night Drive
+街の灯は はるか遠い
+過ぎ去った日々にバイバイ
+夢の余韻など ただの思い出
+どこに行く 迷う心 道なき道の上
+孤独は自立の親友なのだろうか?
+どこに行こうと 過ぎた過去
+振り返らないで ただ生きること 愛してみたい
+波音撫でた 耳の奥
+繰り返して 寄せては返す
+Night＆day その狭間で
+夢の影が 朝日に溶けていた
+色褪せた夜酒の匂いは
+あの街に置いてきた
+Dark fades into light
+Moments hush hush hush
+Whispers hush hush hush
+Riding the night surf 身委ねて
+Secrets hush hush hush
+Silence hush hush hush
+いつの間にか
+Lost in ocean side whispers
+朝焼けのCoffee 夜を解く香り
+世界が眠る間に 漕ぎ出して
+沖の方へ 触れてみたい
+裸足が憶えてる 潮騒の冷たさも
+砂の熱さも 誰も奪えないよ
+Chill＆heat その狭間で
+夢の影が朝日に溶けていた
+色褪せた夜酒の匂いは
+あの街に置いてきた
+Dark fades into light
+Moments hush hush hush
+Whispers hush hush hush
+Riding the night surf 身委ねて
+Secrets hush hush hush
+Silence hush hush hush
+いつの間にか
+Lost in ocean side whispers
+どこに行く 迷う心 道なき道の上
+どこに行こうと 過ぎた過去 振り返らないで
+```
